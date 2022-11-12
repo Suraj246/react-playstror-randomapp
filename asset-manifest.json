@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-playstror-randomapp/static/css/main.9c27b639.css",
+    "main.js": "/react-playstror-randomapp/static/js/main.67d28630.js",
+    "static/js/787.ae6770d9.chunk.js": "/react-playstror-randomapp/static/js/787.ae6770d9.chunk.js",
+    "index.html": "/react-playstror-randomapp/index.html",
+    "main.9c27b639.css.map": "/react-playstror-randomapp/static/css/main.9c27b639.css.map",
+    "main.67d28630.js.map": "/react-playstror-randomapp/static/js/main.67d28630.js.map",
+    "787.ae6770d9.chunk.js.map": "/react-playstror-randomapp/static/js/787.ae6770d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c27b639.css",
+    "static/js/main.67d28630.js"
+  ]
+}
